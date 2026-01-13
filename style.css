@@ -5,6 +5,17 @@
     font-family: "Bai Jamjuree", sans-serif;
 }
 
+nav {
+    text-align: end;
+    margin-right: 200px;
+    te
+}
+
+a{
+    color: white ;
+    text-decoration : none;
+    text-transform : uppercase;
+}
 
 
 .container {
